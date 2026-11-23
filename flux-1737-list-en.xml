@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1737 Sanctions List: History and Updates</title>
+    <link>https://main.un.org/securitycouncil/en/sanctions/1737/materials</link>
+    <description>Key milestones of the 1737 Sanctions List maintained by the Security Council Committee established pursuant to resolution 1737 (2006). One item is added each time the list changes.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1737-list-en.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>1737 Sanctions List re-established: 43 individuals, 78 entities</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1737/materials</link>
+      <guid isPermaLink="false">1737-list-reestablished-2025-09-27</guid>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <description>Effective 27 September 2025 at 8 p.m. Eastern Daylight Time, under paragraphs 11 and 12 of resolution 2231 (2015), all provisions of resolutions 1696 (2006), 1737 (2006), 1747 (2007), 1803 (2008), 1835 (2009) and 1929 (2010) were re-applied as they stood before 20 July 2015, and the 1737 Sanctions List was re-established. As of 23 November 2026, the page shows that the list contains 43 individuals and 78 entities (the page gives no date of last update). Full list (XML): https://scsanctions.un.org/xml/en/iran | List (HTML): https://scsanctions.un.org/en/?keywords=iran</description>
+    </item>
+
+    <item>
+      <title>2231 List removed from the Security Council website</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1737/materials</link>
+      <guid isPermaLink="false">1737-2231-list-removed-2023-10-19</guid>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <description>Pursuant to resolution 2231 (2015), on 19 October 2023 the Secretariat removed the remaining 23 individuals and 61 entities from the 2231 List, and removed the 2231 List from the Security Council website.</description>
+    </item>
+
+    <item>
+      <title>One entity removed from the 2231 List</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1737/materials</link>
+      <guid isPermaLink="false">1737-2231-entity-removed-2016-01-17</guid>
+      <pubDate>Sun, 17 Jan 2016 12:00:00 +0000</pubDate>
+      <description>On 17 January 2016, the Security Council removed one entity from the 2231 List.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2231 (2015): the 2231 Sanctions List is established</title>
+      <link>https://www.undocs.org/S/RES/2231(2015)</link>
+      <guid isPermaLink="false">res-2231</guid>
+      <pubDate>Mon, 20 Jul 2015 12:00:00 +0000</pubDate>
+      <description>Resolution 2231 (2015) established a 2231 Sanctions List including the individuals and entities of the 1737 Sanctions List, except 36 individuals and entities specified in the attachment to Annex B, who were delisted on Implementation Day.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1929 (2010): one individual and 40 entities designated</title>
+      <link>https://www.undocs.org/S/RES/1929(2010)</link>
+      <guid isPermaLink="false">res-1929</guid>
+      <pubDate>Wed, 09 Jun 2010 12:00:00 +0000</pubDate>
+      <description>The Security Council designated a total of 1 individual and 40 entities, subject to an assets freeze and travel ban.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1803 (2008): 13 individuals and 12 entities designated</title>
+      <link>https://www.undocs.org/S/RES/1803(2008)</link>
+      <guid isPermaLink="false">res-1803</guid>
+      <pubDate>Mon, 03 Mar 2008 12:00:00 +0000</pubDate>
+      <description>The Security Council designated an additional 13 individuals and 12 entities, subject to an assets freeze, travel notification to the Committee and a travel ban.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1747 (2007): 15 individuals and 13 entities designated</title>
+      <link>https://www.undocs.org/S/RES/1747(2007)</link>
+      <guid isPermaLink="false">res-1747</guid>
+      <pubDate>Sat, 24 Mar 2007 12:00:00 +0000</pubDate>
+      <description>The Security Council designated an additional 15 individuals and 13 entities, subject to an assets freeze and travel notification to the Committee.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1737 (2006): 12 individuals and 10 entities designated</title>
+      <link>https://www.undocs.org/S/RES/1737(2006)</link>
+      <guid isPermaLink="false">res-1737</guid>
+      <pubDate>Sat, 23 Dec 2006 12:00:00 +0000</pubDate>
+      <description>The Security Council designated a total of 12 individuals and 10 entities, subject to an assets freeze.</description>
+    </item>
+
+  </channel>
+</rss>
